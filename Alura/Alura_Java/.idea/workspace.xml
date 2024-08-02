@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7d1873b-a44e-4e2a-bdff-ba945f2c431c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencias/gson-2.10.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/Estudos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/JogoAdivinhacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/Media.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/Perfil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/Positivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/Temperatura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/desafio/Desafio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/estudos/operacoes/Soma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso1/estudos/operacoes/Subtracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/calculos/CalculadoraDeTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/calculos/Classificavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/calculos/FiltroRecomendacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafio/pessoa/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafio/pessoa/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafio/pessoa/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafio/pessoa/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafio/pessoa/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafio/pessoa/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafioaudio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafioaudio/modelos/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafioaudio/modelos/MinhasPreferidas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafioaudio/modelos/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/desafioaudio/modelos/Podcast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/modelos/Episodio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/modelos/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/modelos/Serie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/modelos/Titulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/principal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso2/principal/MainListas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso3/desafio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso3/desafio/exemplo/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso3/desafio/modelos/Cartao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso3/desafio/modelos/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso4/excecao/ErroDeConversaoDeAnoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso4/main/MainComBusca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/curso4/modelos/TituloOmdb.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2k12Fgzh47RxPV7jWy8AX14rYyR" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Desafio.executor": "Run",
+    "Application.Estudos.executor": "Run",
+    "Application.JogoAdivinhacao.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainComBusca.executor": "Run",
+    "Application.MainListas.executor": "Run",
+    "Application.Media.executor": "Run",
+    "Application.Perfil.executor": "Run",
+    "Application.Positivo.executor": "Run",
+    "Application.ScreenmatchApplication.executor": "Run",
+    "Application.Temperatura.executor": "Run",
+    "Application.edu.curso2.desafio.pessoa.Main.executor": "Run",
+    "Application.edu.curso3.desafio.Main.executor": "Run",
+    "Application.edu.curso4.desafio.main.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/edson/Documentos/GitHub/learning-java-roadmap.sh/Alura/Alura_Java/dependencias/gson-2.10.1.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/edu/javaweb" />
+      <recent name="$PROJECT_DIR$/dependencias" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScreenmatchApplication">
+    <configuration name="MainComBusca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.curso4.main.MainComBusca" />
+      <module name="Alura_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.curso4.modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.curso2.principal.MainListas" />
+      <module name="Alura_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.curso2.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenmatchApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.javaweb.screenmatch.src.main.java.com.morro.edson.screenmatch.ScreenmatchApplication" />
+      <module name="Alura_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javaweb.screenmatch.src.main.java.com.morro.edson.screenmatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.curso3.desafio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.curso3.desafio.Main" />
+      <module name="Alura_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.curso3.desafio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.curso4.desafio.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.curso4.desafio.main.Main" />
+      <module name="Alura_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.curso4.desafio.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScreenmatchApplication" />
+        <item itemvalue="Application.edu.curso4.desafio.main.Main" />
+        <item itemvalue="Application.MainComBusca" />
+        <item itemvalue="Application.edu.curso3.desafio.Main" />
+        <item itemvalue="Application.MainListas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7d1873b-a44e-4e2a-bdff-ba945f2c431c" name="Changes" comment="" />
+      <created>1722436661612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722436661612</updated>
+    </task>
+    <servers />
+  </component>
+</project>
