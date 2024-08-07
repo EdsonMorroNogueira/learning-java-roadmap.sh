@@ -1,4 +1,4 @@
-package com.morro.edson.screenmatch;
+package com.morro.edson.screenmatch_curso1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

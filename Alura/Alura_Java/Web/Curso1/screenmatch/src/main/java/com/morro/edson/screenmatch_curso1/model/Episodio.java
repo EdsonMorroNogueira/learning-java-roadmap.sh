@@ -1,4 +1,4 @@
-package com.morro.edson.screenmatch.model;
+package com.morro.edson.screenmatch_curso1.model;
 
 import java.time.DateTimeException;
 import java.time.LocalDate;

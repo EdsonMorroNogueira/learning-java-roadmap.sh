@@ -1,4 +1,4 @@
-package com.morro.edson.screenmatch.model;
+package com.morro.edson.screenmatch_curso1.model;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

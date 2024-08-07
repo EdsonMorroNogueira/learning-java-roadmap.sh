@@ -1,14 +1,11 @@
-package com.morro.edson.screenmatch.principal;
+package com.morro.edson.screenmatch_curso1.principal;
 
-import com.morro.edson.screenmatch.model.DadosEpisodio;
-import com.morro.edson.screenmatch.model.DadosTemporada;
-import com.morro.edson.screenmatch.model.Episodio;
-import com.morro.edson.screenmatch.service.ConsumoApi;
-import com.morro.edson.screenmatch.model.DadosSerie;
-import com.morro.edson.screenmatch.service.implementation.ConverteDadosImpl;
+import com.morro.edson.screenmatch_curso1.model.DadosTemporada;
+import com.morro.edson.screenmatch_curso1.model.Episodio;
+import com.morro.edson.screenmatch_curso1.service.ConsumoApi;
+import com.morro.edson.screenmatch_curso1.model.DadosSerie;
+import com.morro.edson.screenmatch_curso1.service.implementation.ConverteDadosImpl;
 
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.stream.Collectors;
 

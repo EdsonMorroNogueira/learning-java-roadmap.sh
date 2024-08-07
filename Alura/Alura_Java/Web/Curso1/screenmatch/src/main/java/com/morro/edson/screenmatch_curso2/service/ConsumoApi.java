@@ -1,4 +1,4 @@
-package com.morro.edson.screenmatch.service;
+package com.morro.edson.screenmatch_curso2.service;
 
 import java.io.IOException;
 import java.net.URI;
@@ -7,22 +7,22 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class ConsumoApi {
-
     public String obterDados(String endereco) {
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(endereco))
                 .build();
         HttpResponse<String> response = null;
-
         try {
-            response = client.send(request, HttpResponse.BodyHandlers.ofString());
+            response = client
+                    .send(request, HttpResponse.BodyHandlers.ofString());
         } catch (IOException e) {
             throw new RuntimeException(e);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
 
-       return response.body();
+        String json = response.body();
+        return json;
     }
 }

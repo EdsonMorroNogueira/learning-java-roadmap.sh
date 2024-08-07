@@ -1,9 +1,9 @@
-package com.morro.edson.screenmatch.service.implementation;
+package com.morro.edson.screenmatch_curso1.service.implementation;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.morro.edson.screenmatch.service.IConverteDados;
+import com.morro.edson.screenmatch_curso1.service.IConverteDados;
 
 public class ConverteDadosImpl implements IConverteDados {
 
