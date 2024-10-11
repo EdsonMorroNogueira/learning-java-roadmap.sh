@@ -1,4 +1,4 @@
-package com.morro.edson.screenmatch_curso2.service.traducao;
+package com.morro.edson.screenmatch_curso2.serviceAntiga.traducao;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

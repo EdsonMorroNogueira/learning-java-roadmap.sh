@@ -2,8 +2,8 @@ package com.morro.edson.screenmatch_curso2.main;
 
 import com.morro.edson.screenmatch_curso2.model.*;
 import com.morro.edson.screenmatch_curso2.repository.SerieRepository;
-import com.morro.edson.screenmatch_curso2.service.ConsumoApi;
-import com.morro.edson.screenmatch_curso2.service.ConverteDados;
+import com.morro.edson.screenmatch_curso2.serviceAntiga.ConsumoApi;
+import com.morro.edson.screenmatch_curso2.serviceAntiga.ConverteDados;
 
 import java.util.*;
 import java.util.stream.Collectors;

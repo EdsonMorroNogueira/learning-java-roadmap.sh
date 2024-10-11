@@ -1,6 +1,6 @@
 package com.morro.edson.screenmatch_curso2.model;
 
-import com.morro.edson.screenmatch_curso2.service.traducao.ConsultaMyMemory;
+import com.morro.edson.screenmatch_curso2.serviceAntiga.traducao.ConsultaMyMemory;
 import jakarta.persistence.*;
 
 import java.util.ArrayList;
@@ -117,6 +117,10 @@ public class Serie {
         this.episodios = episodios;
     }
 
+    public Long getId() {
+        return id;
+    }
+
     @Override
     public String toString() {
         return "genero=" + genero +
@@ -128,4 +132,6 @@ public class Serie {
                 ", sinopse='" + sinopse + '\'' +
                 ", episodios='" + episodios + '\'';
     }
+
+
 }
